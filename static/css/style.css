@@ -194,7 +194,7 @@ main {
   height: 3.5rem;
 }
 
-.wobble {
+/* .wobble {
   transform: translate(0);
   cursor: pointer;
 }
@@ -216,7 +216,7 @@ main {
   50% {
     transform: rotate(6deg);
   }
-}
+} */
 
 nav {
   display: inline-flex;
